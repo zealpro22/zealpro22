@@ -1,3 +1,3 @@
 # Hello ZealPro
 
-echo "# zealpro22" >> README.md
+echo "# zealpro22" >> README.md!
